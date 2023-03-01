@@ -10,6 +10,13 @@
     position: relative;
     
 }
+/* #Name{
+    padding: 1px 140px 30px 10px;
+    height: 35px;
+text-align: left;
+    border-radius: 10%;
+    color: grey;
+} */
 .Secondpage{
     background-color:rgba(0,0,0,.6);
     height: 400px;
@@ -69,6 +76,9 @@ hr{
     margin-left: 0; */
     border-bottom: 5px solid white;
 }
+#Explore{
+    margin-left: 10%;
+}
 .secondpage{
     display: flex;
 
@@ -110,11 +120,11 @@ margin-left: 47%;
 }
 li{
     display: inline-flex;
-    /* margin-top: auto; */
 }
 #popular{
     color: #ffac7d;
     padding: 20px 30px;
+    margin-left: 10%;
 }
 .Popular-image{
     background-color: #002d3d;
